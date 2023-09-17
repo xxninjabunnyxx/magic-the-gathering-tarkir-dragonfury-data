@@ -1,0 +1,19 @@
+---
+object: set
+id: 6f68a621-24b7-4371-a25c-9fff3ed68b8f
+code: ptkdf
+tcgplayer_id: 1520
+name: Tarkir Dragonfury
+uri: https://api.scryfall.com/sets/6f68a621-24b7-4371-a25c-9fff3ed68b8f
+scryfall_uri: https://scryfall.com/sets/ptkdf
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aptkdf&unique=prints
+released_at: '2015-04-03'
+set_type: promo
+card_count: 4
+parent_set_code: dtk
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: ktk
+block: Khans of Tarkir
+icon_svg_uri: https://svgs.scryfall.io/sets/dtk.svg?1694404800
